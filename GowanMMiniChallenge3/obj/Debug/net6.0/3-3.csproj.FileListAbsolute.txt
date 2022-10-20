@@ -28,3 +28,18 @@ C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge3\3-3\obj\Debug\net6.0\ref
 C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge3\3-3\obj\Debug\net6.0\3-3.pdb
 C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge3\3-3\obj\Debug\net6.0\3-3.genruntimeconfig.cache
 C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge3\3-3\obj\Debug\net6.0\ref\3-3.dll
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\bin\Debug\net6.0\3-3.exe
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\bin\Debug\net6.0\3-3.deps.json
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\bin\Debug\net6.0\3-3.runtimeconfig.json
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\bin\Debug\net6.0\3-3.dll
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\bin\Debug\net6.0\3-3.pdb
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.csproj.AssemblyReference.cache
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.AssemblyInfoInputs.cache
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.AssemblyInfo.cs
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.csproj.CoreCompileInputs.cache
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.dll
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\refint\3-3.dll
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.pdb
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\3-3.genruntimeconfig.cache
+C:\Users\carol\GowanMMiniChallenge3\GowanMMiniChallenge3\obj\Debug\net6.0\ref\3-3.dll
