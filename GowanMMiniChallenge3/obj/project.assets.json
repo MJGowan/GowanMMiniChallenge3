@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carol\\.nuget\\packages\\": {}
+    "C:\\Users\\petal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carol\\GowanMMiniChallenge3\\GowanMMiniChallenge3\\3-3.csproj",
+      "projectUniqueName": "C:\\Users\\petal\\Desktop\\GitHub Redo\\GowanMMiniChallenge3\\3-3.csproj",
       "projectName": "3-3",
-      "projectPath": "C:\\Users\\carol\\GowanMMiniChallenge3\\GowanMMiniChallenge3\\3-3.csproj",
-      "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carol\\GowanMMiniChallenge3\\GowanMMiniChallenge3\\obj\\",
+      "projectPath": "C:\\Users\\petal\\Desktop\\GitHub Redo\\GowanMMiniChallenge3\\3-3.csproj",
+      "packagesPath": "C:\\Users\\petal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petal\\Desktop\\GitHub Redo\\GowanMMiniChallenge3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\petal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
